@@ -7,7 +7,7 @@ This software utilizes the terminal and prints a greeting message to the user.
 This software was created to showcase the abilities of the print function.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qhm9JazF8UY)
 
 # Development Environment
 
