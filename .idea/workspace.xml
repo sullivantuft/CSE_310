@@ -4,13 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca29c7e7-f91d-4399-9092-3a882310a237" name="Changes" comment="WeatherApp Commit3">
-      <change beforePath="$PROJECT_DIR$/Weather_Application" beforeDir="false" />
+    <list default="true" id="ca29c7e7-f91d-4399-9092-3a882310a237" name="Changes" comment="WeatherApp Commit4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/City.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/CurrentWeather.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/DailyWeather.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/Geocoder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/WeatherAPI.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/WeatherData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Application/src/main/kotlin/apiRequests.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/WeatherApp">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,20 +78,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build WeatherApp.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sullivan/IdeaProjects/CSE_310/WeatherApp/build.gradle.kts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sullivan\IdeaProjects\CSE_310" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="CSE_310" />
@@ -135,7 +185,8 @@
       <workItem from="1737830080860" duration="411000" />
       <workItem from="1737830501572" duration="198000" />
       <workItem from="1737830785289" duration="200000" />
-      <workItem from="1737830991335" duration="18000" />
+      <workItem from="1737830991335" duration="1137000" />
+      <workItem from="1737832144697" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="WeatherApp Commit">
       <option name="closed" value="true" />
@@ -169,7 +220,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737830789766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="WeatherApp Commit3">
+      <option name="closed" value="true" />
+      <created>1737831015222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737831015222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="WeatherApp Commit3">
+      <option name="closed" value="true" />
+      <created>1737831019732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737831019732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="WeatherApp Commit4">
+      <option name="closed" value="true" />
+      <created>1737831075898</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737831075898</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +264,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WeatherApp Commit" />
     <MESSAGE value="WeatherApp Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="WeatherApp Commit2" />
+    <MESSAGE value="WeatherApp Commit3" />
+    <MESSAGE value="WeatherApp Commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="WeatherApp Commit4" />
   </component>
 </project>
